@@ -5,3 +5,4 @@
 
 // const answer = prompt ('Тебе есть 18?', '');
 // console.log(typeof(answer));
+const numberOfFilms = prompt ("Сколько фильмов вы уже смотерли?")
